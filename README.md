@@ -1,4 +1,4 @@
-## Hola,I`m Soundarya Kumari👋
+## Hola,I`m Soundarya Kumari!!👋
 
 - 🌱 I’m currently learning on : Web and AWS(Cloud)
 - 👯 I’m looking to collaborate on : Web Tech and Any Tech Related
@@ -7,4 +7,4 @@
 - 📫 How to reach me: [Twitter - @Soundarya_Says](https://twitter.com/Soundarya_Says)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Love Reading Books 24/7
--->
+- [![Soundarya0 github stats](https://github-readme-stats.vercel.app/api?username=Soundarya0)](https://github.com/Soundarya0/github-readme-stats)
