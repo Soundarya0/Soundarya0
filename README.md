@@ -7,4 +7,13 @@
 - 📫 How to reach me: [Twitter - @Soundarya_Says](https://twitter.com/Soundarya_Says)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Love Reading Books 24/7
-- [![Soundarya0 github stats](https://github-readme-stats.vercel.app/api?username=Soundarya0)](https://github.com/Soundarya0/github-readme-stats)
+
+- ⚡ Stats:
+[![Soundarya0 github stats](https://github-readme-stats.vercel.app/api?username=Soundarya0)](https://github.com/Soundarya0/github-readme-stats)
+ <br />
+
+- ⚡ Most Used Languages: 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soundarya0)](https://github.com/Soundarya0/github-readme-stats)
+
+
+- 
