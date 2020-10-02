@@ -1,6 +1,6 @@
 ## Hola,I`m Soundarya Kumari!!👋
 
-- 🌱 I’m currently learning on : Full Stack
+- 🌱 I’m currently learning on : Full Stack and ML 
 - 👯 I’m looking to collaborate on : Web Tech and Any Tech Related
 - 🤔 I’m looking for help with : MERN Stack
 - 💬 Ask me about: Web Tech and AWS(Cloud)
