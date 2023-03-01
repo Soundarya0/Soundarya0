@@ -1,10 +1,11 @@
 ## Hola,I`m Soundarya Kumari!!👋
 
-- 🌱 I’m currently working on : Full Stack 
+- 🌱 I’m currently working as : Full Stack Developer
+- 👩💻 I’m currently learning everything : 🤣
 - 👯 I’m looking to collaborate on : DevOps 
 - 📫 How to reach me: [Twitter - @Soundarya_Says](https://twitter.com/Soundarya_Says)
 - 😄 Pronouns: ambitious
-- ⚡ Fun fact: Love Reading Books 24/7
+- ⚡ Fun fact: I Love Reading Books
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soundarya0)](https://github.com/Soundarya0/github-readme-stats)
 
