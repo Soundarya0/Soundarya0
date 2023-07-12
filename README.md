@@ -1,6 +1,6 @@
 ## Hola,I`m Soundarya Kumari!!👋
 
-- 🌱 I’m currently working as : Full Stack Developer
+- 🌱 I’m currently working as : Developer
 - 👩💻 I’m currently learning everything : 🤣
 - 👯 I’m looking to collaborate on : DevOps 
 - 📫 How to reach me: [Twitter - @Soundarya_Says](https://twitter.com/Soundarya_Says)
