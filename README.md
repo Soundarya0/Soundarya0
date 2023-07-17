@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently working as : DevOps Engineer
 - 👩💻 I’m currently learning everything : Related to DevOps
-- 👯 I’m looking to collaborate on : DevOps 
 - 📫 How to reach me: [Twitter - @Soundarya_Says](https://twitter.com/Soundarya_Says)
 - 😄 Pronouns: ambitious
 
