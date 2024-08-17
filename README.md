@@ -18,7 +18,8 @@ Hola,I`m Soundarya Kumari👋, DevOps Engineer from  Accenture, India, currently
 
 ### 🌐 Technologies
 
-- **Languages**: JavaScript, Python, Java, Bash, Go 
+- **Languages**: JavaScript, Python, Java, Go
+- **Scripting**: Bash 
 - **Frameworks**: [React](https://reactjs.org/), [Django](https://www.djangoproject.com/), [Spring Boot](https://spring.io/projects/spring-boot)
 - **Databases**: [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/)
 - **Cloud**: [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/)
