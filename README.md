@@ -9,12 +9,12 @@ Hola,I`m Soundarya Kumari👋, DevOps Engineer from  Accenture, India, currently
 - **IDEs**: [Visual Studio Code](https://code.visualstudio.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - **Version Control**: [Git](https://git-scm.com/), [GitHub](https://github.com/)
 - **CI/CD**: [Jenkins](https://www.jenkins.io/), [GitHub Actions](https://github.com/features/actions)
-- **Docker**:[Docker][https://www.docker.com/]
-- **Terraform**:[Terraform][https://www.terraform.io/]
-- **Kubernetes**:[K8s][https://www.terraform.io/]
-- **Helm**:[Helm][https://helm.sh/]
-- **prometheus**: [prometheus][https://prometheus.io/docs/visualization/grafana/]
-- **Grafana**:[Grafana][https://prometheus.io/docs/visualization/grafana/]
+- **Docker**:[Docker](https://www.docker.com/)
+- **Terraform**:[Terraform](https://www.terraform.io/)
+- **Kubernetes**:[K8s](https://www.terraform.io/)
+- **Helm**:[Helm](https://helm.sh/)
+- **prometheus**: [prometheus](https://prometheus.io/docs/visualization/grafana/)
+- **Grafana**:[Grafana](https://prometheus.io/docs/visualization/grafana/)
 
 ### 🌐 Technologies
 
