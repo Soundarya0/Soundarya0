@@ -1,19 +1,20 @@
 ## Hey! Nice to see you.
 Welcome to my page!!!
-Hola,I`m Soundarya Kumari👋, DevOps Engineer from  Accenture, India, currently living in  India, India.
+Hola,I`m Soundarya Kumari👋, DevOps Engineer from  Accenture, India, currently living in India.
 
 ## Tools & Technologies
 
-### 🛠️ Tools
+### 🛠️ DevOps Tools
 
 - **IDEs**: [Visual Studio Code](https://code.visualstudio.com/), [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - **Version Control**: [Git](https://git-scm.com/), [GitHub](https://github.com/)
 - **CI/CD**: [Jenkins](https://www.jenkins.io/), [GitHub Actions](https://github.com/features/actions)
-- **Jenkins**:[https://www.jenkins.io/]
-- **Docker**:[https://www.docker.com/]
-- **Terraform**:[https://www.terraform.io/]
-- **Kubernetes**:[https://www.terraform.io/]
-- **Helm**:[https://helm.sh/]
+- **Docker**:[Docker][https://www.docker.com/]
+- **Terraform**:[Terraform][https://www.terraform.io/]
+- **Kubernetes**:[K8s][https://www.terraform.io/]
+- **Helm**:[Helm][https://helm.sh/]
+- **prometheus**: [prometheus][https://prometheus.io/docs/visualization/grafana/]
+- **Grafana**:[Grafana][https://prometheus.io/docs/visualization/grafana/]
 
 ### 🌐 Technologies
 
