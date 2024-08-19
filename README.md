@@ -32,7 +32,7 @@ Hola,I`m Soundarya Kumari👋, DevOps Engineer from  Accenture, India, currently
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soundarya0)](https://github.com/Soundarya0/github-readme-stats) [![Soundarya0 github stats](https://github-readme-stats.vercel.app/api?username=Soundarya0)](https://github.com/Soundarya0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soundarya0)](https://github.com/Soundarya0/github-readme-stats)                   [![Soundarya0 github stats](https://github-readme-stats.vercel.app/api?username=Soundarya0)](https://github.com/Soundarya0/github-readme-stats)
  
 
 
