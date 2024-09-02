@@ -1,6 +1,6 @@
 ## Hey! Nice to see you.
 Welcome to my page!!!
-Hola,I`m Soundarya Kumari👋, DevOps Engineer from  Accenture, India, currently living in India.
+I`m Soundarya Kumari👋, DevOps Engineer from  Accenture, India, currently living in India.
 
 ## Tools & Technologies
 
